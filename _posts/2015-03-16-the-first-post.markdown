@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "This is the first post"
-date:   2015-03-16
+title:  "블로그 개시했습니다!"
+date:   2015-03-16 15:00
 tags: none 
 comments: true
 ---
