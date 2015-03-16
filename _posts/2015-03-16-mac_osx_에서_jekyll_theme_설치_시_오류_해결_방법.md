@@ -1,5 +1,6 @@
 ---
 layout: post
+category: jekyll
 title: Mac OSX 에서 Jekyll Theme 설치 시 오류 해결 방법
 date: 2015-03-16 16:55
 tags: jekyll
